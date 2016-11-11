@@ -9,8 +9,10 @@
     "angular-mocks": "*",
     "jquery": "*",
     "bootstrap": "*",
+    "angular-devise": "*",
     "angular-route": "*",
     "angular-resource": "*",
-    "angular-animate": "*"
+    "angular-animate": "*",
+    "AngularDevise": "angular-devise#^1.3.0"
   }
 }
